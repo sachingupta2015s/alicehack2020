@@ -70,34 +70,32 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Let's get connected:
 
 <p>
-    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
+    <a href="https://www.linkedin.com/in/mangesh-pandit-392846153/"><img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/mangesh-pandit-392846153/"
             height="35px" /></a>
-    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
-            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
+    <a href="https://twitter.com/Mangesh41559708"><img alt="Twitter"
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Mangesh41559708"
             height="35px" /></a>
-    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
-            height="35px" /></a>
-        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+     
+        <a href="mangesh2042@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=mangesh2042@gmail.com"
             height="35px" width = "130px"/></a>
     
 </p>
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 
 
 📈 my github stats
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=alicehack2020&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicehack2020&theme=react&layout=compact" />
  </p>
 
 
