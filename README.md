@@ -1,24 +1,105 @@
-##Hi there 👋
-I love building creative applications Here are some ideas to get you started:
+ ### नमस्ते (Namaste)🙏🏻, I am Nitesh Goshwami !
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
- - 🌱 I’m currently learning Something New
- - 💬 Ask me about JavaScript / React-JS / HTML / CSS / TypeScript / Next.JS/ Android Development
- - 📫 How to reach me: mangesh2042@gmail.com
- - ⚡ Fun fact: I ❤️ Webseries
+![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
 
-## 🛠 Interests/Skills
-<img src="https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"></img> 
-<img src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"></img>
-<img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"></img>
-<img src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></img>
-<img src="https://camo.githubusercontent.com/52294b273874a865f116a95c7f1075e8adf314d2ab7d57c3834d4311865afa32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"></img>
-<img src="https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"></img>
-<img src="https://camo.githubusercontent.com/b38bbb1cba49a754ade66ca1ca45541ed07ab31a3b01166157f513b44fb35f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"></img>
+<br />
+
+An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitesh-goshwami-88629a167/)
+✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goswami.nitesh5794@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+- 💬 ask me about anything, i am happy to help;
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+    <img alt="Javascript"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        height="25px" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        height="25px" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+        height="25px" />
+    <img alt="Nodejs"
+        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        height="25px" />
+    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+        height="25px" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+        height="25px" />
+    <img alt="Express"
+        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+        height="25px" />   
+    <img alt="Material UI"
+        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        height="25px" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+        height="25px" />
+    <img alt="Web API FastAPI"
+        src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"
+        height="25px" />
+    <img alt="Markdown"
+        src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+        height="25px" />
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        height="25px" />
+    <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        height="25px" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+        height="25px" />
+    <img alt="Prettier"
+        src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+        height="25px" />
+    <img alt="github actions"
+        src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
+        height="25px" />
+    <img alt="postman"
+        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        height="25px" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
+        height="25px" />
+</p>
+
+## Let's get connected:
+
+<p>
+    <a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/"><img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
+            height="35px" /></a>
+    <a href="https://twitter.com/Niteshkumargos1"><img alt="Twitter"
+            src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?link=http://left&link=https://twitter.com/Niteshkumargos1"
+            height="35px" /></a>
+    <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
+            src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
+            height="35px" /></a>
+        <a href="goswami.nitesh5794@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
+            height="35px" width = "130px"/></a>
+    
+</p>
+
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-           
+
+📈 my github stats
+
+<p align="center"> 
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
+ </p>
+
 
 
 
