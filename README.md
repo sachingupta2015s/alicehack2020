@@ -9,7 +9,7 @@
 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, JavaScript, CSS
 
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/mangesh-pandit-392846153/)
