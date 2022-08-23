@@ -1,7 +1,7 @@
-### नमस्ते (Namaste)🙏🏻, I am Mangesh Pandit !
+### नमस्ते (Namaste)🙏🏻, I am Sachin Gupta !
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+        src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alicehack2020.alicehack2020)
 
@@ -9,11 +9,11 @@
 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
-Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, JavaScript, CSS
+Well-versed in numerous programming languages including SQL, Excel , Tableau, Python, MS-Word and Powerpoint.
 
 
-- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/mangesh-pandit-392846153/)
-✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mangesh2042@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
+✔️[Linkedin](https://www.linkedin.com/in/sachin-gupta-45b8b2220/)
+✔️[Mail](https://mail.google.com/mail/u/0/?tab=rm#sent?compose=GTvVlcRwRdzFmWkPKCxRwGHmsKKZBgXjblxHjDnjQrssQmGHtCdpqCXSxhzrRCMFMQRwbsFpDCgSK)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
