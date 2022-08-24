@@ -1,4 +1,11 @@
-### नमस्ते (Namaste)🙏🏻, I am Sachin Gupta !
+### नमस्ते (Namaste)🙏🏻
+
+<!-- INTRODUCTION -->
+    
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I am Sachin  </h1>
+
+
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst"></a>
