@@ -50,7 +50,10 @@ Well-versed in numerous programming languages including SQL, Excel , Tableau, Py
 
   <p align="center"><img align="center" src=" https://github-readme-streak-stats.herokuapp.com?user=sachingupta2015s&theme=black-ice&hide_border=true&background=060A0CD0" alt="sachingupta2015s" /></p>
                       
-   
+
+https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0
+ 
+(https://github-readme-streak-stats.herokuapp.com?user=sachingupta2015s&theme=black-ice&hide_border=true&background=060A0CD0)
         
         
 ## Let's get connected:
@@ -74,7 +77,7 @@ Well-versed in numerous programming languages including SQL, Excel , Tableau, Py
 📈 my github stats
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=alicehack2020&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicehack2020&theme=react&layout=compact" />
  </p>
 
