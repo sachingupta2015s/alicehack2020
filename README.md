@@ -1,13 +1,13 @@
 ### नमस्ते (Namaste)🙏🏻, I am Sachin Gupta !
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst"></a>
+        src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst from India"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alicehack2020.alicehack2020)
 
 <br />
 
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+An aspiring Data nalyst  with significant education, knowledge, and skills has a passion for learning with an endless supply of optimism and curiosity.
 
 Well-versed in numerous programming languages including SQL, Excel , Tableau, Python, MS-Word and Powerpoint.
 
