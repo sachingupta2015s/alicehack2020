@@ -15,7 +15,7 @@ Well-versed in numerous programming languages including SQL, Excel , Tableau, Py
 
 - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **Data Science and Analytics.**
+- 🌱 I’m currently learning **Data Analytics.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/sachingupta2015s?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sachingupta" height="30" width="40" style="max-width: 100%;"></a>
 
@@ -58,6 +58,10 @@ Well-versed in numerous programming languages including SQL, Excel , Tableau, Py
     
 </p>
 
+<!--CONNECT WITH ME CODE  -->
+
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
+
 
 
 <!-- CONNECT WITH ME ICONS CODE -->
@@ -66,6 +70,19 @@ Well-versed in numerous programming languages including SQL, Excel , Tableau, Py
 <a href = "https://github.com/sachingupta2015s?tab=repositories" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
 <a href="mailto:sg07011998@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 </p>
+
+
+
+
+
+
+
+
+<h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
+
+![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <!--END_SECTION:waka-->
 
